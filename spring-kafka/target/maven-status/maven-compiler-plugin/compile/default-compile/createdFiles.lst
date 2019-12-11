@@ -1,0 +1,7 @@
+com\spectrum\mobile\app\service\DataAssetBuildUpService.class
+com\spectrum\mobile\app\config\KafkaTopicConfig.class
+com\spectrum\mobile\app\service\DataAssetBuildUpService$1.class
+com\spectrum\mobile\app\domain\Greeting.class
+com\spectrum\mobile\app\DataAssetBuildUpApp.class
+com\spectrum\mobile\app\resource\DataAssetBuildUpResource.class
+com\spectrum\mobile\app\config\KafkaProducerConfig.class
